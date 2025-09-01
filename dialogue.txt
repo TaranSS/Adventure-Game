@@ -1,1 +1,1 @@
-"greeting=Hello from main branch (different)" 
+greeting=Hello from BOTH branches, resolved!
